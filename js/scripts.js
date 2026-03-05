@@ -1,7 +1,7 @@
 $(function () {
 
     // init feather icons
-    feather.replace();
+    feather.replace(); 
 
     // init tooltip & popovers
     $('[data-toggle="tooltip"]').tooltip();
